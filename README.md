@@ -1,7 +1,7 @@
-# DMM WEBCAMPコンテンツ【HTML/CSSを学ぼう】  
+chapter1_exercise_HTML/CSSの学習
 
 ## 概要
-DMM WEBCAMPの学習コンテンツHTML/cssを学ぼうの演習問題  
+学習コンテンツHTML/cssを学ぼうの演習問題  
 chapter1_exercise
 
 ## 環境
